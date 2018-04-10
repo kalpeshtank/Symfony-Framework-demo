@@ -1,0 +1,2 @@
+# Symfony-Framework-demo
+Symfony aims to speed up the creation and maintenance of web applications and to replace repetitive coding tasks.  Symfony has a low performance overhead used with a bytecode cache.  Symfony is aimed at building robust applications in an enterprise context, and aims to give developers full control over the configuration: from the directory structure to the foreign libraries, almost everything can be customized. To match enterprise development guidelines, Symfony is bundled with additional tools to help developers test, debug and document projects
